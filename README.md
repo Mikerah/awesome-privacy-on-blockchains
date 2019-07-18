@@ -1,5 +1,6 @@
 # Awesome Privacy on Blockchains
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 This is a combination of papers and articles that cover various aspects of blockchain privacy.
 
 ## High-level articles
