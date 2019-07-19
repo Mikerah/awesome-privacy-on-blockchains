@@ -3,6 +3,32 @@
 
 This is a combination of papers and articles that cover various aspects of blockchain privacy.
 
+- [Awesome Privacy on Blockchains](#awesome-privacy-on-blockchains)
+  * [High-level articles](#high-level-articles)
+  * [Talks and Lectures](#talks-and-lectures)
+  * [Layer 2](#layer-2)
+    + [Mixers](#mixers)
+    + [Confidential Transactions](#confidential-transactions)
+    + [Payment/State Channels](#payment-state-channels)
+    + [Plasma](#plasma)
+  * [Alternate Blockchain designs](#alternate-blockchain-designs)
+    + [Blockchains with private smart contracts](#blockchains-with-private-smart-contracts)
+    + [Using Zk-Snarks](#using-zk-snarks)
+    + [Using other cryptographic primitives](#using-other-cryptographic-primitives)
+  * [Privacy-Preserving PoS Protocols](#privacy-preserving-pos-protocols)
+  * [Enhancements](#enhancements)
+  * [Instantiations](#instantiations)
+    + [Proof of Concepts](#proof-of-concepts)
+    + [Wallets](#wallets)
+  * [Network layer privacy for blockchains](#network-layer-privacy-for-blockchains)
+  * [Analyses on Anonymity and Privacy in blockchains](#analyses-on-anonymity-and-privacy-in-blockchains)
+  * [Privacy coins](#privacy-coins)
+    + [Monero](#monero)
+    + [Zcash](#zcash)
+    + [Zcoin](#zcoin)
+    + [Dash](#dash)
+  * [Misc](#misc)
+
 ## High-level articles
 - [Privacy in Cryptocurrencies: An Overview](https://medium.com/@yi.sun/privacy-in-cryptocurrencies-d4b268157f6c)
 - [Privacy in Cryptocurrencies: Mixing-based Approaches](https://medium.com/@yi.sun/privacy-in-cryptocurrencies-mixing-based-approaches-ce08d0040c88)
