@@ -1,7 +1,6 @@
 # Awesome Privacy on Blockchains
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This is a combination of papers and articles that cover various aspects of blockchain privacy.
 - [Awesome Privacy on Blockchains](#awesome-privacy-on-blockchains)
   * [High-level articles](#high-level-articles)
   * [Talks and Lectures](#talks-and-lectures)
@@ -31,6 +30,7 @@ This is a combination of papers and articles that cover various aspects of block
     + [Zcoin](#zcoin)
     + [Dash](#dash)
     + [Grin/Beam](#grin-beam)
+  * [People to Follow](#people-to-follow)
   * [Misc](#misc)
   
 ## High-level articles
@@ -152,8 +152,28 @@ This is a combination of papers and articles that cover various aspects of block
 ### Dash
 ### Grin/Beam
 
+## People to Follow
+- [Ian Miers](https://twitter.com/secparam)
+- [Charles Guillemet](https://twitter.com/P3b7_)
+- [Anna Kaplan](https://twitter.com/kaplannie)
+- [Tux](https://twitter.com/__Tux)
+- [Madars Virza](https://twitter.com/MadarsV)
+- [Daniel J Bernstein](https://twitter.com/hashbreaker)
+- [David Wong](https://twitter.com/cryptodavidw)
+- [Chelsea H. Komlo](https://twitter.com/chelseakomlo)
+- [Deidre Connolly](https://twitter.com/durumcrustulum)
+- [Izaak Meckler](https://twitter.com/izmeckler)
+- [Justin Ehrenhofer](https://twitter.com/JEhrenhofer)
+- [Aaron Kumavis](https://twitter.com/kumavis_)
+- [Phil Daian](https://twitter.com/phildaian)
+- [Matthew Green](https://twitter.com/matthew_d_green)
+- [John Adler](https://twitter.com/jadler0)
+- [BarryWhiteHat](https://twitter.com/barrywhitehat)
+- [Mikerah](https://twitter.com/badcryptobitch)
+
 ## Misc
 - [Zero-Knowledge Started Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519/2)
 - [Zero Knowledge papers](zkp.science)
 - [Awesome Zero-Knowledge Proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
+
 
