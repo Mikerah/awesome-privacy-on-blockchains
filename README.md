@@ -161,7 +161,6 @@
 ### [Monero](https://www.getmonero.org/)
 - [Zero to Monero](https://ww.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)
 - [Mastering Monero](https://github.com/monerobook/monerobook)
-- Mo
 ### [Zcash](https://z.cash/)
 - [Zcash Protocol Specification](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf)
 ### [Dash](https://www.dash.org/)
