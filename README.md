@@ -17,6 +17,7 @@
     + [Using other cryptographic primitives](#using-other-cryptographic-primitives)
   * [Privacy-Preserving PoS Protocols](#privacy-preserving-pos-protocols)
   * [Privacy Preserving Light Client Designs](#privacy-preserving-light-client-designs)
+  * [Economics of Privacy Blockchains](#economics-of-privacy-blockchains)
   * [Enhancements](#enhancements)
   * [Instantiations](#instantiations)
     + [Proof of Concepts](#proof-of-concepts)
@@ -25,20 +26,22 @@
   * [Analyses on Anonymity and Privacy in blockchains](#analyses-on-anonymity-and-privacy-in-blockchains)
   * [De-anonymization Techniques](#de-anonymization-techniques)
   * [Privacy coins](#privacy-coins)
-    + [Monero](#monero)
-    + [Zcash](#zcash)
-    + [Zcoin](#zcoin)
-    + [Dash](#dash)
+    + [[Monero](https://www.getmonero.org/)](#-monero--https---wwwgetmoneroorg--)
+    + [[Zcash](https://z.cash/)](#-zcash--https---zcash--)
+    + [[Dash](https://www.dash.org/)](#-dash--https---wwwdashorg--)
     + [Grin/Beam](#grin-beam)
   * [People to Follow](#people-to-follow)
   * [Misc](#misc)
-  
+
 ## High-level articles
 - [Privacy in Cryptocurrencies: An Overview](https://medium.com/@yi.sun/privacy-in-cryptocurrencies-d4b268157f6c)
 - [Privacy in Cryptocurrencies: Mixing-based Approaches](https://medium.com/@yi.sun/privacy-in-cryptocurrencies-mixing-based-approaches-ce08d0040c88)
 - [Zeth & Nightfall: the differences in approach](https://medium.com/clearmatics/zeth-nightfall-the-differences-in-approach-62ce33472683)
 - [Blockchain Research Newsletter: Zether and ZEXE](https://blockchainresearch.substack.com/p/blockchain-research-newsletter-2)
 - [In-depth overview of Privacy in Bitcoin](https://en.bitcoin.it/wiki/Privacy)
+- [Privacy and Cryptocurrency, Part 1: How Private is Bitcoin?](https://medium.com/human-rights-foundation-hrf/privacy-and-cryptocurrency-part-i-how-private-is-bitcoin-e3a4071f8fff)
+- [Privacy and Cryptocurrency, Part 2: Bitcoin Wallets](https://medium.com/human-rights-foundation-hrf/privacy-and-cryptocurrency-part-ii-bitcoin-wallets-2f68099b055f)
+- [Privacy and Cryptocurrency, Part 3: Should You Use a Privacy Coin](https://medium.com/human-rights-foundation-hrf/privacy-and-cryptocurrency-part-iii-should-you-use-a-privacy-coin-22dc71732a2f)
 
 ## Talks and Lectures
 - [Alessandro Chiesa on Zerocash at CESC2017](https://www.youtube.com/watch?v=84Vbj7-i9CI&source=post_page---------------------------)
@@ -48,6 +51,7 @@
 
 ## Layer 1
 - [Increasing Anonymity in Bitcoin](https://download.wpsoftware.net/bitcoin/wizardry/horasyuanmouton-owas.pdf)
+- [Extending the Anonymity of Zcash](https://arxiv.org/pdf/1902.07337.pdf)
 
 ## Layer 2 
 ### Mixers
@@ -82,7 +86,6 @@
 ## Alternate Blockchain designs
 ### Blockchains with private smart contracts
 - [Zexe](https://eprint.iacr.org/2018/962.pdf)
-- [RingCT](https://eprint.iacr.org/2015/1098.pdf)
 - [One-time, zero sum ring signature](https://github.com/cfromknecht/OZcoin/blob/master/whitepaper/zerosum.pdf)
 - [Hawk](https://eprint.iacr.org/2015/675.pdf)
 - [Arbitrum](https://offchainlabs.com/Arbitrum-USENIX.pdf)
@@ -102,6 +105,7 @@
 - [One-out-of-Many Proofs](http://discovery.ucl.ac.uk/1502142/1/Groth_764.pdf)
 - [ZkLedger](https://eprint.iacr.org/2018/241.pdf)
 - [Cryptonote+](https://eprint.iacr.org/2019/021.pdf)
+- [RingCT](https://eprint.iacr.org/2015/1098.pdf)
 
 ## Privacy-Preserving PoS Protocols
 - [Ouroborous Crypsinous](https://eprint.iacr.org/2018/1132.pdf)
@@ -112,6 +116,10 @@
 - [Neutrino](https://github.com/lightninglabs/neutrino)
 - [BITE](https://www.usenix.org/system/files/sec19fall_matetic_prepub.pdf)
 
+## Economics of Privacy Blockchains
+- [Rational Zero: Economic Secuirty of Zerocoin for Everlasting Security](https://www.ifca.ai/fc14/bitcoin/papers/bitcoin14_submission_12.pdf)
+- [The price of anonymity: empirical evidence from a market for Bitcoin anonymization](https://watermark.silverchair.com/tyx007.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAk0wggJJBgkqhkiG9w0BBwagggI6MIICNgIBADCCAi8GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMkVUudbfGyrLDOnpmAgEQgIICABYGt3mQkv26M8bkZ6fgufnqyC2cbLUCRY_YdLqfUy3PNSoHbc4i3eZN7oBaT3dF6uElybwVydRPTSaXogFAZccx1RAXULpCfUF7K8MlnVJOYsMe8pCodQWXfAQPvQAxtEXvnPpxSfCQqEOBnHL_bGFBn1JCb23e7-H3XI4swOf8hccHCHqPDN5raiNikGHnVtKb6IpU8GC585YbQRNysZA0X3mj98zhyHv8Rnz0Wa45aKcHdg7cccQ7tEyT81ZP9G9TOdH3fMUm7NlratQrahznsSRw-pEIHjIeeLspBSMGa0PNTBrbebL0i3-XwNsKCLwX6iOP6oKZJPYNn8l-D89EcRB9QR2dC0U3-2G77owEv2T9tW1hxxpQjAAvggjORParcrbwn4fzQr0OM4qED1im8UcAvbT2kbXhUTAxkLXoiYmqIagN5MaKCYjv3otiouEq7yYYYfDFkPFj47wMiq5GGcURg0xh8l_Wl4xqUDSX5rtHWJCVEmdXKJzz-Y7lJ9GN9sBvLXZ9T1za3DIAX6_m093a-z9d_XBL4Z6n8oUzy5DEUYZD1T-z2ONSInbYdHXHJfUW62ZdslmM-21qzL1QOP2BxRc5om5H3YFCi_3Yr8uIm316kgM3YiqtCkc7ARPn14QY6q1EuJpg_5fZntRbv0HMd-MW3HSHA3GqBV_T)
+- [Incentivizing Privacy in Cryptocurrencies](https://arxiv.org/pdf/1901.02695.pdf)
 
 ## Enhancements
 - [Bulletproofs](https://eprint.iacr.org/2017/1066.pdf)
@@ -122,35 +130,44 @@
 - [Miximus](https://github.com/barryWhiteHat/miximus)
 - [RingToken](https://github.com/sontol/RingToken)
 - [Laundromat](https://github.com/blackyblack/laundromat)
+- [Tornado Mixer](https://tornado.cash/)
 
 ### Wallets
 - [Wasabi Wallet](https://wasabiwallet.io/)
 - [Samourai Wallet](https://samouraiwallet.com/)
+- [CashShuffle](https://cashshuffle.com/)
 
 ## Network layer privacy for blockchains
 - [Dandelion](https://arxiv.org/pdf/1701.04439.pdf)
 - [Dandelion++](https://arxiv.org/pdf/1805.11060.pdf)
+- [A Flexible Network Approach to Privacy of Blockchain Transactions](https://arxiv.org/pdf/1807.11338.pdf)
+- 
 
 ## Analyses on Anonymity and Privacy in blockchains
 - [Anonymity Properties of the Bitcoin P2P Network](https://arxiv.org/pdf/1703.08761.pdf)
 - [A Survey on Security and Privacy Issues of Bitcoin](https://arxiv.org/pdf/1706.00916.pdf)
 - [An empirical analysis of traceability of the monero blockchain](https://arxiv.org/pdf/1704.04299.pdf)
 - [Obfuscation in Bitcoin: Tecniques and Politics](https://arxiv.org/pdf/1706.05432.pdf)
-- [The price of anonymity: empirical evidence from a market for Bitcoin anonymization](https://watermark.silverchair.com/tyx007.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAk0wggJJBgkqhkiG9w0BBwagggI6MIICNgIBADCCAi8GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMkVUudbfGyrLDOnpmAgEQgIICABYGt3mQkv26M8bkZ6fgufnqyC2cbLUCRY_YdLqfUy3PNSoHbc4i3eZN7oBaT3dF6uElybwVydRPTSaXogFAZccx1RAXULpCfUF7K8MlnVJOYsMe8pCodQWXfAQPvQAxtEXvnPpxSfCQqEOBnHL_bGFBn1JCb23e7-H3XI4swOf8hccHCHqPDN5raiNikGHnVtKb6IpU8GC585YbQRNysZA0X3mj98zhyHv8Rnz0Wa45aKcHdg7cccQ7tEyT81ZP9G9TOdH3fMUm7NlratQrahznsSRw-pEIHjIeeLspBSMGa0PNTBrbebL0i3-XwNsKCLwX6iOP6oKZJPYNn8l-D89EcRB9QR2dC0U3-2G77owEv2T9tW1hxxpQjAAvggjORParcrbwn4fzQr0OM4qED1im8UcAvbT2kbXhUTAxkLXoiYmqIagN5MaKCYjv3otiouEq7yYYYfDFkPFj47wMiq5GGcURg0xh8l_Wl4xqUDSX5rtHWJCVEmdXKJzz-Y7lJ9GN9sBvLXZ9T1za3DIAX6_m093a-z9d_XBL4Z6n8oUzy5DEUYZD1T-z2ONSInbYdHXHJfUW62ZdslmM-21qzL1QOP2BxRc5om5H3YFCi_3Yr8uIm316kgM3YiqtCkc7ARPn14QY6q1EuJpg_5fZntRbv0HMd-MW3HSHA3GqBV_T)
 - [Anonymous Alone? Measuring Bitcoin's Second-Generation Anonymization Techniques](https://informationsecurity.uibk.ac.at/pdfs/MB2017_AnonymousAlone.pdf)
 - [An Empirical Analysis of Anonymity in Zcash](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kappos.pdf)
+- [A fistful of Bitcoins](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf)
+- [Privacy-enhancing overlays in Bitcoin](https://fc15.ifca.ai/preproceedings/bitcoin/paper_5.pdf)
+- [Map-Z: Exposing the Zcash Network in Times of Transition](https://arxiv.org/pdf/1907.09755.pdf)
 
 ## De-anonymization Techniques
 - [Tracing Transactions Across Cryptocurrency Ledgers](https://arxiv.org/pdf/1810.12786.pdf)
 
 ## Privacy coins
-### Monero
+### [Monero](https://www.getmonero.org/)
 - [Zero to Monero](https://ww.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)
 - [Mastering Monero](https://github.com/monerobook/monerobook)
-### Zcash
-### Zcoin
-### Dash
+- Mo
+### [Zcash](https://z.cash/)
+- [Zcash Protocol Specification](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf)
+### [Dash](https://www.dash.org/)
 ### Grin/Beam
+- [Grin](https://grin-tech.org/)
+- [Beam](https://www.beam.mw/)
 
 ## People to Follow
 - [Ian Miers](https://twitter.com/secparam)
@@ -175,5 +192,4 @@
 - [Zero-Knowledge Started Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519/2)
 - [Zero Knowledge papers](zkp.science)
 - [Awesome Zero-Knowledge Proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
-
 
