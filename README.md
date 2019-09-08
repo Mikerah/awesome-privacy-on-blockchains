@@ -1,37 +1,7 @@
 # Awesome Privacy on Blockchains
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-- [Awesome Privacy on Blockchains](#awesome-privacy-on-blockchains)
-  * [High-level articles](#high-level-articles)
-  * [Talks and Lectures](#talks-and-lectures)
-  * [Layer 1](#layer-1)
-  * [Layer 2](#layer-2)
-    + [Mixers](#mixers)
-    + [Confidential Transactions](#confidential-transactions)
-    + [Payment/State Channels](#payment-state-channels)
-    + [Plasma](#plasma)
-    + [MPC Platforms for Privacy-Preserving smart contracts](#mpc-platforms-for-privacy-preserving-smart-contracts)
-  * [Alternate Blockchain designs](#alternate-blockchain-designs)
-    + [Blockchains with private smart contracts](#blockchains-with-private-smart-contracts)
-    + [Using Zk-Snarks](#using-zk-snarks)
-    + [Using other cryptographic primitives](#using-other-cryptographic-primitives)
-  * [Privacy-Preserving PoS Protocols](#privacy-preserving-pos-protocols)
-  * [Privacy Preserving Light Client Designs](#privacy-preserving-light-client-designs)
-  * [Economics of Privacy Blockchains](#economics-of-privacy-blockchains)
-  * [Enhancements](#enhancements)
-  * [Instantiations](#instantiations)
-    + [Proof of Concepts](#proof-of-concepts)
-    + [Wallets](#wallets)
-  * [Network layer privacy for blockchains](#network-layer-privacy-for-blockchains)
-  * [Analyses on Anonymity and Privacy in blockchains](#analyses-on-anonymity-and-privacy-in-blockchains)
-  * [De-anonymization Techniques](#de-anonymization-techniques)
-  * [Privacy coins](#privacy-coins)
-    + [[Monero](https://www.getmonero.org/)](#-monero--https---wwwgetmoneroorg--)
-    + [[Zcash](https://z.cash/)](#-zcash--https---zcash--)
-    + [[Dash](https://www.dash.org/)](#-dash--https---wwwdashorg--)
-    + [Grin/Beam](#grin-beam)
-  * [People to Follow](#people-to-follow)
-  * [Misc](#misc)
+This is a combination of papers and articles that cover various aspects of blockchain privacy.
 
 ## High-level articles
 - [Privacy in Cryptocurrencies: An Overview](https://medium.com/@yi.sun/privacy-in-cryptocurrencies-d4b268157f6c)
@@ -114,11 +84,11 @@
 ## Privacy Preserving Light Client Designs
 - [ZLiTE](https://eprint.iacr.org/2018/1024.pdf)
 - [Neutrino](https://github.com/lightninglabs/neutrino)
-- [BITE](https://www.usenix.org/system/files/sec19fall_matetic_prepub.pdf)
+- [BiTE](https://www.usenix.org/system/files/sec19fall_matetic_prepub.pdf)
 
 ## Economics of Privacy Blockchains
 - [Rational Zero: Economic Secuirty of Zerocoin for Everlasting Security](https://www.ifca.ai/fc14/bitcoin/papers/bitcoin14_submission_12.pdf)
-- [The price of anonymity: empirical evidence from a market for Bitcoin anonymization](https://watermark.silverchair.com/tyx007.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAk0wggJJBgkqhkiG9w0BBwagggI6MIICNgIBADCCAi8GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMkVUudbfGyrLDOnpmAgEQgIICABYGt3mQkv26M8bkZ6fgufnqyC2cbLUCRY_YdLqfUy3PNSoHbc4i3eZN7oBaT3dF6uElybwVydRPTSaXogFAZccx1RAXULpCfUF7K8MlnVJOYsMe8pCodQWXfAQPvQAxtEXvnPpxSfCQqEOBnHL_bGFBn1JCb23e7-H3XI4swOf8hccHCHqPDN5raiNikGHnVtKb6IpU8GC585YbQRNysZA0X3mj98zhyHv8Rnz0Wa45aKcHdg7cccQ7tEyT81ZP9G9TOdH3fMUm7NlratQrahznsSRw-pEIHjIeeLspBSMGa0PNTBrbebL0i3-XwNsKCLwX6iOP6oKZJPYNn8l-D89EcRB9QR2dC0U3-2G77owEv2T9tW1hxxpQjAAvggjORParcrbwn4fzQr0OM4qED1im8UcAvbT2kbXhUTAxkLXoiYmqIagN5MaKCYjv3otiouEq7yYYYfDFkPFj47wMiq5GGcURg0xh8l_Wl4xqUDSX5rtHWJCVEmdXKJzz-Y7lJ9GN9sBvLXZ9T1za3DIAX6_m093a-z9d_XBL4Z6n8oUzy5DEUYZD1T-z2ONSInbYdHXHJfUW62ZdslmM-21qzL1QOP2BxRc5om5H3YFCi_3Yr8uIm316kgM3YiqtCkc7ARPn14QY6q1EuJpg_5fZntRbv0HMd-MW3HSHA3GqBV_T)
+- [The price of anonymity: empirical evidence from a market for Bitcoin anonymization](https://academic.oup.com/cybersecurity/article/3/2/127/4057584)
 - [Incentivizing Privacy in Cryptocurrencies](https://arxiv.org/pdf/1901.02695.pdf)
 
 ## Enhancements
@@ -141,7 +111,6 @@
 - [Dandelion](https://arxiv.org/pdf/1701.04439.pdf)
 - [Dandelion++](https://arxiv.org/pdf/1805.11060.pdf)
 - [A Flexible Network Approach to Privacy of Blockchain Transactions](https://arxiv.org/pdf/1807.11338.pdf)
-- 
 
 ## Analyses on Anonymity and Privacy in blockchains
 - [Anonymity Properties of the Bitcoin P2P Network](https://arxiv.org/pdf/1703.08761.pdf)
@@ -156,11 +125,13 @@
 
 ## De-anonymization Techniques
 - [Tracing Transactions Across Cryptocurrency Ledgers](https://arxiv.org/pdf/1810.12786.pdf)
+- [FloodXMR: Low-cost transaction flooding attack with Monero's bulletproof protocol](https://eprint.iacr.org/2019/455.pdf)
 
 ## Privacy coins
 ### [Monero](https://www.getmonero.org/)
 - [Zero to Monero](https://ww.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)
 - [Mastering Monero](https://github.com/monerobook/monerobook)
+
 ### [Zcash](https://z.cash/)
 - [Zcash Protocol Specification](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf)
 ### [Dash](https://www.dash.org/)
@@ -186,6 +157,11 @@
 - [John Adler](https://twitter.com/jadler0)
 - [BarryWhiteHat](https://twitter.com/barrywhitehat)
 - [Mikerah](https://twitter.com/badcryptobitch)
+- [Harry Halpin](https://twitter.com/harryhalpin)
+- [Sean Bowe](https://twitter.com/ebfull)
+- [Wei Jie](https://twitter.com/catallacticised)
+- [Kobi Gurkan](https://twitter.com/kobigurk)
+- [Zooko](https://twitter.com/zooko)
 
 ## Misc
 - [Zero-Knowledge Started Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519/2)
