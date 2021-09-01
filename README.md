@@ -34,6 +34,7 @@ This is a combination of papers and articles that cover various aspects of block
 - [MixCoin: Anonymity for Bitcoin with Accountable Mixes](https://eprint.iacr.org/2014/077.pdf)
 - [CoinParty](https://www.martinhenze.de/wp-content/papercite-data/pdf/zmh+16.pdf)
 - [TumbleBit](https://eprint.iacr.org/2016/575)
+- [Many out of many proofs with applications to anonymous Zether](https://eprint.iacr.org/2020/293.pdf)
 
 ### Confidential Transactions
 - [Confidential Transactions](https://people.xiph.org/~greg/confidential_values.txt)
