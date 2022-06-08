@@ -22,6 +22,8 @@ This is a combination of papers and articles that cover various aspects of block
 ## Layer 1
 - [Increasing Anonymity in Bitcoin](https://download.wpsoftware.net/bitcoin/wizardry/horasyuanmouton-owas.pdf)
 - [Extending the Anonymity of Zcash](https://arxiv.org/pdf/1902.07337.pdf)
+- [zkay: Specifying and Enforcing Data Privacy in Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-zkay.pdf)
+- [ZeeStar: Private Smart Contracts by Homomorphic Encryption and Zero-Knowledge Proofs](https://files.sri.inf.ethz.ch/website/papers/sp22-zeestar.pdf)
 
 ## Layer 2 
 ### Mixers
