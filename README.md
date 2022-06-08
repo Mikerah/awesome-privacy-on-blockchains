@@ -164,8 +164,9 @@ This is a combination of papers and articles that cover various aspects of block
 - [Wei Jie](https://twitter.com/catallacticised)
 - [Zooko](https://twitter.com/zooko)
 
-## Misc
+## Related Lists
 - [Zero-Knowledge Started Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519/2)
 - [Zero Knowledge papers](zkp.science)
 - [Awesome Zero-Knowledge Proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
+- [Awesome ZK](https://github.com/ventali/awesome-zk)
 
