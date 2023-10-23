@@ -104,7 +104,7 @@ This is a combination of papers and articles that cover various aspects of block
 - [Miximus](https://github.com/barryWhiteHat/miximus)
 - [RingToken](https://github.com/sontol/RingToken)
 - [Laundromat](https://github.com/blackyblack/laundromat)
-- [Tornado Mixer](https://tornado.cash/)
+- [Tornado Mixer](https://tornadocash.eth.link/)
 
 ### Wallets
 - [Wasabi Wallet](https://wasabiwallet.io/)
