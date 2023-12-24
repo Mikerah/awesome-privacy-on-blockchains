@@ -65,6 +65,7 @@ This is a combination of papers and articles that cover various aspects of block
 - [Arbitrum](https://offchainlabs.com/Arbitrum-USENIX.pdf)
 - [ZkVM](https://github.com/stellar/slingshot/blob/main/zkvm/README.md)
 - [Ekiden](https://arxiv.org/abs/1804.05141)
+- [DarkFi](https://github.com/darkrenaissance/darkfi)
 
 ### Using Zk-Snarks
 - [Zerocash](http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf)
@@ -105,6 +106,7 @@ This is a combination of papers and articles that cover various aspects of block
 - [RingToken](https://github.com/sontol/RingToken)
 - [Laundromat](https://github.com/blackyblack/laundromat)
 - [Tornado Mixer](https://tornado.cash/)
+- [Privacy Pools](https://github.com/ameensol/privacy-pools)
 
 ### Wallets
 - [Wasabi Wallet](https://wasabiwallet.io/)
@@ -126,6 +128,7 @@ This is a combination of papers and articles that cover various aspects of block
 - [A fistful of Bitcoins](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf)
 - [Privacy-enhancing overlays in Bitcoin](https://fc15.ifca.ai/preproceedings/bitcoin/paper_5.pdf)
 - [Map-Z: Exposing the Zcash Network in Times of Transition](https://arxiv.org/pdf/1907.09755.pdf)
+- [Blockchain Privacy and Regulatory Compliance: Towards a Practical Equilibrium](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4563364)
 
 ## De-anonymization Techniques
 - [Tracing Transactions Across Cryptocurrency Ledgers](https://arxiv.org/pdf/1810.12786.pdf)
