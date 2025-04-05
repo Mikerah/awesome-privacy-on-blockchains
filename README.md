@@ -1,5 +1,5 @@
 # Awesome Privacy on Blockchains
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 This is a combination of papers and articles that cover various aspects of blockchain privacy.
 
