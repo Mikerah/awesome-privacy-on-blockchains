@@ -139,6 +139,8 @@ This is a combination of papers and articles that cover various aspects of block
 - [Zero to Monero](https://ww.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)
 - [Mastering Monero](https://github.com/monerobook/monerobook)
 
+- [Haveno DEX](https://haveno.exchange) - Non-custodial decentralized exchange built for XMR. Fork of Bisq with 2-of-3 multisig escrow. Enables privacy-preserving fiat↔XMR trading without KYC. Instances: [RetosSwap](https://retoswap.com), [DawnSwap](https://dawnswap.cash)
+
 ### [Zcash](https://z.cash/)
 - [Zcash Protocol Specification](https://github.com/zcash/zips/blob/master/protocol/protocol.pdf)
 ### [Dash](https://www.dash.org/)
@@ -178,4 +180,5 @@ This is a combination of papers and articles that cover various aspects of block
 - [Zero Knowledge papers](zkp.science)
 - [Awesome Zero-Knowledge Proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
 - [Awesome ZK](https://github.com/ventali/awesome-zk)
+
 
