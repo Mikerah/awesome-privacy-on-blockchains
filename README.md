@@ -66,6 +66,7 @@ This is a combination of papers and articles that cover various aspects of block
 - [ZkVM](https://github.com/stellar/slingshot/blob/main/zkvm/README.md)
 - [Ekiden](https://arxiv.org/abs/1804.05141)
 - [DarkFi](https://github.com/darkrenaissance/darkfi)
+- [Midnight](https://midnight.network/) (based on the [Kachina](https://eprint.iacr.org/2020/543) protocol)
 
 ### Using Zk-Snarks
 - [Zerocash](http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf)
