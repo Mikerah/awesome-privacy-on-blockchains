@@ -178,4 +178,5 @@ This is a combination of papers and articles that cover various aspects of block
 - [Zero Knowledge papers](zkp.science)
 - [Awesome Zero-Knowledge Proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
 - [Awesome ZK](https://github.com/ventali/awesome-zk)
+- [Solana Mint/Program Monitor (n8n)](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow: watches an SPL mint or Solana program ID and alerts on Telegram when a new transaction shows up, no external database, ready in 5 minutes.
 
