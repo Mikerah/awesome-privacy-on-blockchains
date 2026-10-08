@@ -13,6 +13,7 @@ This is a combination of papers and articles that cover various aspects of block
 - [Privacy and Cryptocurrency, Part 2: Bitcoin Wallets](https://medium.com/human-rights-foundation-hrf/privacy-and-cryptocurrency-part-ii-bitcoin-wallets-2f68099b055f)
 - [Privacy and Cryptocurrency, Part 3: Should You Use a Privacy Coin](https://medium.com/human-rights-foundation-hrf/privacy-and-cryptocurrency-part-iii-should-you-use-a-privacy-coin-22dc71732a2f)
 - [Zama Private Smart Contracts using Homomorphic Encryption](https://www.zama.ai/post/private-smart-contract-using-homomorphic-encryption-ethcc-2022)
+- [Zcash Privacy: Shielded Transactions, Addresses & Viewing Keys](https://zecview.com/privacy/)
 
 ## Talks and Lectures
 - [Alessandro Chiesa on Zerocash at CESC2017](https://www.youtube.com/watch?v=84Vbj7-i9CI&source=post_page---------------------------)
