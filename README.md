@@ -178,4 +178,5 @@ This is a combination of papers and articles that cover various aspects of block
 - [Zero Knowledge papers](zkp.science)
 - [Awesome Zero-Knowledge Proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
 - [Awesome ZK](https://github.com/ventali/awesome-zk)
+- [CleanSlate](https://github.com/devshield-tech/botox-android) - Remotely wipe your Android device if it is lost or stolen.
 
